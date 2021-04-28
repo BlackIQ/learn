@@ -2,5 +2,5 @@
 
 I'll teach useful things in telegram channel and put codes here.
 
-- Python
-**Notification**
+<h3>Python</h3>
+<p>1 - Notification</p>
